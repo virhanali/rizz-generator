@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  rizz-generator:
+    build: .
+    ports:
+      - "8002:80"
+    environment:
+      - VITE_OPENAI_API_KEY=${VITE_OPENAI_API_KEY}
+    restart: unless-stopped 

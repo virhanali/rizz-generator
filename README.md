@@ -1,5 +1,6 @@
-# AI Rizz Generator
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/5d2316c3-deef-44ce-a4e2-cfca76defb3c" />
 
+# AI Rizz Generator
 A fun web application that generates creative pickup lines (rizz) using AI. Built with React, TypeScript, and OpenAI's GPT-4.
 
 ## Features
